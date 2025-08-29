@@ -73,13 +73,13 @@ React Hook Form + Zod (form validation)
 
 ## 📸 Screenshots
 
-### 🏠 Product Listing Page
-![Product Listing](./assets/screenshot1546.png)
+![Screenshot 1](./src/assets/image/screenshot1.png)
 
-### 🔍 Product Details Modal
-![Product Details Modal](./assets/screenshot1547.png)
+### Product Filtering
+![Screenshot 2](./src/assets/image/screenshot2.png)
 
-(./assets/screenshot1547.png)
+### Product Details
+![Screenshot 3](./src/assets/image/screenshot3.png
 
 🔍 Product Details Modal
 ## folder .....
