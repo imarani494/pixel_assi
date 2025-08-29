@@ -42,7 +42,7 @@ View product details: title, price, description, category, and image
 Explore all products in a single-page layout with dynamic filtering
 
 
-![Product Listing Screenshot](./assets/screenshot2.png)
+(./assets/screenshot2.png)
 ✨ Features
 
 ✅ Responsive grid-based UI with Tailwind CSS
