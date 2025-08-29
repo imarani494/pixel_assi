@@ -70,14 +70,14 @@ React Hook Form + Zod (form validation)
 
 📸 Screenshots
 🏠 Product Listing Page
-
 ## 📸 Screenshots
 
-(./src/assets/add.png)
+![Add Product](./src/assets/add.png)
 
-![Home Page](./src/assets/image/home.png)
+![Home Page](./src/assets/home.png)
 
-![Modal](./src/assets/image/modal.png)
+![Modal](./src/assets/modal.png)
+
 
 
 
