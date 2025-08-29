@@ -73,7 +73,7 @@ React Hook Form + Zod (form validation)
 
 ## 📸 Screenshots
 
-![Add Product](./src/assets/add.png)
+(./src/assets/add.png)
 
 ![Home Page](./src/assets/image/home.png)
 
