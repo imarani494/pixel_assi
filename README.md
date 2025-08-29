@@ -40,7 +40,10 @@ Search products by title
 View product details: title, price, description, category, and image
 
 Explore all products in a single-page layout with dynamic filtering
+### 🏠 Product Listing Page
+![Product Listing](./assets/screenshot1546.png)
 
+### 🔍 Product Details Modal
 
 (./assets/screenshot(1546).png)
 ✨ Features
