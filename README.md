@@ -41,11 +41,8 @@ View product details: title, price, description, category, and image
 
 Explore all products in a single-page layout with dynamic filtering
 ### 🏠 Product Listing Page
-![Product Listing](./assets/screenshot1546.png)
 
-### 🔍 Product Details Modal
 
-(./assets/screenshot(1546).png)
 ✨ Features
 
 ✅ Responsive grid-based UI with Tailwind CSS
@@ -73,6 +70,12 @@ React Hook Form + Zod (form validation)
 
 📸 Screenshots
 🏠 Product Listing Page
+
+### 🏠 Product Listing Page
+![Product Listing](./assets/screenshot1546.png)
+
+### 🔍 Product Details Modal
+![Product Details Modal](./assets/screenshot1547.png)
 
 🔍 Product Details Modal
 ## folder .....
